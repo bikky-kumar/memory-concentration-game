@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Concentration</string>
+    <string name="player">Player 1</string>
+    <string name = "turn">Turn</string>
+    <string name = "winner">Winner</string>
+    <string name = "space_holder">---</string>
+    <string name="score">Score</string>
+    <string name="player_name">Player Name</string>
+    <string name="reset">Reset</string>
+</resources>
