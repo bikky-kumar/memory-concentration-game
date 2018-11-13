@@ -5,6 +5,17 @@
     <string name = "winner">Winner</string>
     <string name = "space_holder">---</string>
     <string name="score">Score</string>
-    <string name="player_name">Player Name</string>
+    <string name="playerName">Player Name</string>
+    <string name="player1">Enter Player 1 Name</string>
+    <string name="player2">Enter Player 2 Name</string>
     <string name="reset">Reset</string>
+    <string name="start_button">Start Game</string>
+    <string name="menu">Menu</string>
+    <string name="welcome">Welcome to The Game </string>
+    <string name="winner_name">Winner</string>
+    <string name="looser_name">Looser</string>
+    <string name="winner_score">Winner Score</string>
+    <string name="looser_score">Looser Score</string>
+    <string name="new_game">New Game</string>
+    <string name="quit">Quit</string>
 </resources>
